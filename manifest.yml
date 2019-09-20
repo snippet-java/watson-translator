@@ -4,7 +4,7 @@ declared-services:
     plan: lite
 applications:
 - services:
-  - language-translator-service
+  - language-translator-t4
   name: language-translator-demo
   command: npm start
   path: .
